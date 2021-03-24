@@ -111,7 +111,7 @@ p{
   height: 550px;
   width: 1080px;
   margin: auto;
-  background: #ffffff url(me.PNG) no-repeat center center;
+  background: #ffffff url(styles/me.PNG) no-repeat center center;
 }
 
 #wrap {
