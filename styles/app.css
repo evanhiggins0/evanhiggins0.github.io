@@ -12,6 +12,12 @@
   }
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /* navigation bar */
  
@@ -144,14 +150,6 @@ p{
 	padding-bottom: 40px;
 	
 }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
