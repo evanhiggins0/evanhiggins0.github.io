@@ -141,9 +141,9 @@ p{
   width: 1080px;
   background: white url(content.jpg) repeat-y center top;
   margin: auto;
-  text-align: left;
-
- 
+  text-align: center;
+  word-wrap: break-word;
+  display: table-cell;
 }
 
 #footer-bottom{
