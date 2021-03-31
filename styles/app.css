@@ -13,7 +13,7 @@
 }
 
 .responsive {
-  min-width: 100%;
+  width: 100%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
