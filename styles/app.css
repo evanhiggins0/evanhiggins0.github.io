@@ -138,10 +138,10 @@ p{
 
 #wrap {
   position: relative;
-  width: 1080px;
+  width: 100%
   background: white url(content.jpg) repeat-y center top;
   margin: auto;
-  text-align: center;
+  text-align: left;
   word-wrap: break-word;
   display: table-cell;
 }
