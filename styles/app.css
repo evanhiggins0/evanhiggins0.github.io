@@ -68,58 +68,6 @@ body{
   text-size-adjust: auto;
 }
 
-/* Contact us  */
-
-input[type=text], select, textarea {
-  width: 100%; /* Full width */
-  padding: 12px;  
-  border: 1px solid #181C1D; /*  border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; 
-  margin-bottom: 16px; 
-  resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
-background-color: #eee;
-}
-
-/* Style the submit button with a specific background color */
-input[type=submit] {
-  background-color: #0B0C41;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-/* When moving the mouse over the submit button, add a darker color */
-input[type=submit]:hover {
-  background-color: #111;
-}
-
-/* Add a background color and some padding around the form */
-.grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  border-radius: 5px;
-  background-color: #0B0C41;
-  padding: 20px;
-  width: 100%;
-  margin: 20px auto;
-}
-
-.container{
-  border-radius: 5px;
-  background-color: #C0C1E1;
-  padding: 20px;
-  width: 60%;
-  margin: 20px auto;
-}
-
-iframe{
-  width: 60%;
-  height: 500px;
-}
 /* page style and layout */
 
 p{
