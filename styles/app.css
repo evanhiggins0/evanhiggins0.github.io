@@ -82,7 +82,7 @@ p{
 
 #wrap {
   position: relative;
-  width: 90%;
+  width: 100%;
   background: white url(content.jpg) repeat-y center top;
   margin: auto;
   text-align: center;
