@@ -77,19 +77,12 @@ p{
   padding: 5px;
   margin: 10px;
   color: #324A4D;
-
-}
-
-#header-photo {
-  height: 550px;
-  width: 1080px;
-  margin: auto;
-  background: #ffffff url(styles/me.PNG) no-repeat center center;
+  text-align: center;
 }
 
 #wrap {
   position: relative;
-  width: 100%
+  width: 75%;
   background: white url(content.jpg) repeat-y center top;
   margin: auto;
   text-align: center;
