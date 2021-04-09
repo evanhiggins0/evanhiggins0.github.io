@@ -13,10 +13,12 @@
 }
 
 .responsive {
-  max-width: 100%;
+  display: block;
+  width: 50%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
+
 }
 
 /* navigation bar */
@@ -66,6 +68,7 @@ body{
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   text-size-adjust: auto;
+  text-align: center;
 }
 
 /* page style and layout */
@@ -89,7 +92,7 @@ p{
   width: 100%
   background: white url(content.jpg) repeat-y center top;
   margin: auto;
-  text-align: left;
+  text-align: center;
   word-wrap: break-word;
 }
 
