@@ -13,19 +13,19 @@ section{
 }
 a:link
 {
-	color: black;
+	color: yellow;
 }
 a:visited
 {
-	color: red;
+	color: lightblue;
 }
 a:hover
 {
-	color: white;
+	color: red;
 }
 a:active
 {
-	color: lightpink;
+	color: white;
 }
 .banner
 {
@@ -130,13 +130,13 @@ header.sticky ul li a
 	width: 100%;
 	text-align: center;
 	margin-bottom: 30px;
-	color: #fff;
+	color: #111;
 }
 .heading h2
 {
 	font-weight: 600;
 	font-size: 30px;
-	color: #fff;
+	color: #111;
 }
 .content
 {
@@ -164,7 +164,8 @@ img
 {
 	background: #111;
 }
-.heading.white
+.heading.white,
+.heading.white h2
 {
 	color: #fff;
 }
@@ -236,6 +237,11 @@ img
 	color: #fff;
 	flex-direction: column;
 	font-weight: 300;
+}
+
+.contactInfo h3
+{
+	color: #fff;
 }
 
 /* responsive time woo */
