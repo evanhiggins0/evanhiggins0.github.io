@@ -202,6 +202,7 @@ img
 {
 	background: #111;
 }
+
 .contactInfo
 {
 	min-width: 40%;
@@ -235,12 +236,6 @@ img
 	flex-direction: column;
 	font-weight: 300;
 }
-.contactInfo h3
-{
-	color: #fff;
-	font-size: 20px;
-	font-weight: 500;
-	margin-bottom: 10px;
 
 /* responsive time woo */
 @media (max-width: 991px)
