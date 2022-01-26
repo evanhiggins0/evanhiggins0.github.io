@@ -13,19 +13,19 @@ section{
 }
 a:link
 {
-	color: white;
+	color: black;
 }
 a:visited
 {
-	color: orange;
+	color: purple;
 }
 a:hover
 {
-	color: red;
+	color: blue;
 }
 a:active
 {
-	color: white;
+	color: red;
 }
 .banner
 {
